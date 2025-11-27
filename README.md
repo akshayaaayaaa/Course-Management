@@ -51,7 +51,7 @@ java -cp bin edu.ccrm.cli.Main
 ## 📂 Example Usage
 Sample CLI flow:
 ```
-===== Campus Course & Records Manager =====
+===== Course Management =====
 1. Manage Students
 2. Manage Courses
 3. Manage Enrollment & Grades
@@ -91,4 +91,5 @@ Sample CLI flow:
 ## 🙏 Acknowledgements
 - Java SE official documentation  
 - Oracle tutorials on NIO.2, Streams, and OOP patterns  
+
 
